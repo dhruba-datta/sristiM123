@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sristi mitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sristi mitra" height="30" width="40" /></a>
-<a href="https://fb.com/sristi mitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sristi mitra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sristi-mitra-3260b11b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sristi mitra" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100010432668431" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sristi mitra" height="30" width="40" /></a>
 <a href="https://instagram.com/_a_sadburitto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a_sadburitto" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sristi_mitra_2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sristi_mitra_2021" height="30" width="40" /></a>
+<a href="https://leetcode.com/sristi_mitra_2021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sristi_mitra_2021" height="30" width="40" /></a>
 <a href="https://discord.gg/#0813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0813" height="30" width="40" /></a>
 </p>
 
